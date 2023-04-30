@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 import os
 print("OS Information Details")
 print("")
